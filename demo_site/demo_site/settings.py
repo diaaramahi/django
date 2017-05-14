@@ -27,7 +27,7 @@ SECRET_KEY = '*gtbud=k8sey3&r20v3&+!2kss+=y2y(vnt=i7z_!i$&zk-hy-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['diaa-dgango-elb-950017359.us-east-1.elb.amazonaws.com','diaa-dgango.fetchr-test.com']
+ALLOWED_HOSTS = ['diaa-dgango-elb-950017359.us-east-1.elb.amazonaws.com','diaa-django.fetchr-test.com']
 
 
 # Application definition
