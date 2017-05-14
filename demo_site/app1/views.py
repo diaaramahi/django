@@ -9,7 +9,7 @@ def index(request):
             },
             {
                 "first_name": "Talal",
-                "last_name": "Talal"
+                "last_name": "Shobaita"
             }
         ]
     }
